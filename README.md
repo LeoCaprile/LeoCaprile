@@ -1,12 +1,23 @@
-# Hello 🤗, I am Matias Fuentes!
+<h1 align="center">Hi 👋, I'm Matías Fuentes</h1>
+<h3 align="center">A passionate frontend developer from Chile</h3>
 
-Web developer from Chile, based in the fifth region, Valparaiso.
-I'm into backend and frontend, but more focused on **frontend** and learning more about backend every day 🤓.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leocaprile&label=Profile%20views&color=2ec27e&style=flat" alt="leocaprile" /> </p>
 
-# Why you are here?
+- 🔭 I’m currently working on [JumpittLabs](https://jumpitt.cl/)
 
-Maybe because i sent you my resume or i dont really know, but i am happy to have you around feel free to view my code and make pull request if you see any bug you can solve !🐞
+- 🌱 I’m currently learning **NextJS, Svelte**
 
-# More about me 🧔
+- 👨‍💻 All of my projects are available at [repositories](repositories)
 
-Learning web develoment constantly in my free time, also i play trumpet especially jazz, studying electrical engineering in Duoc UC.
+- 💬 Ask me about **React, Docker, JavaScript, TypeScript, e2e and unit Testing.**
+
+- 📫 How to reach me **matiasf.cortez@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/matiasfcortez/](https://www.linkedin.com/in/matiasfcortez/)
+
+- ⚡ Fun fact **I play a lot of instruments like trumpet, piano, and guitar!**
+
+<h2> Contact:</h2>
+
+<a href="https://www.linkedin.com/in/matiasfcortez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matiasfcortez/" height="30" width="40" /></a>
+
